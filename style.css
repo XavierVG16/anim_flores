@@ -7,7 +7,7 @@
 }
 
 :root {
-  --dark-color: #010113;
+  --dark-color: #c9c9d4;
 }
 
 body {
@@ -46,8 +46,8 @@ body {
     ),
     repeating-linear-gradient(
       189deg,
-      rgb(0, 0, 0) 0px,
-      rgb(0, 0, 0) 19px,
+      rgb(165, 36, 36) 0px,
+      rgb(245, 233, 233) 19px,
       transparent 19px,
       transparent 22px
     ),
